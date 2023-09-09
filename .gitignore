@@ -1,0 +1,19 @@
+/bin/
+/obj/
+/bin/
+/.vscode/
+/.idea/
+/voice_message.wav
+/appsettings.json
+/appsettings.Development.json
+/appsettings.Production.json
+
+# Dependencies and generated files
+*.dll
+*.pdb
+*.cache
+*.log
+*.user
+*.vscode/
+*.suo
+*.sln.iml

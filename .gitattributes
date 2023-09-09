@@ -1,0 +1,8 @@
+# Set default behavior to treat all files as text
+* text=auto
+
+# Conversion exclusion for binary files
+*.png binary
+*.jpg binary
+*.gif binary
+*.wav binary
